@@ -1,10 +1,7 @@
 {{ define "main" }}
-{{- `<!-- /index.html  -->` | safeHTML -}}
-<div class="container-prose">
-{{ .Content }}
-{{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-  {{ .Render "summary" }}
-{{ end }}
-</div>
-{{- `<!-- /index.html  -->` | safeHTML -}}
+  {{ partial "marketing/hero-right" . }}
+  {{ partial "marketing/faqs" . }}
+	{{ partial "marketing/twobox" . }}
+	{{ partial "marketing/faq-accordion" . }}
+	{{ partial "marketing/cta" . }}
 {{ end }}

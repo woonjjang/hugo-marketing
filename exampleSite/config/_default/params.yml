@@ -12,3 +12,34 @@ featuredImages:
 googleFonts:
   - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
   - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap
+
+assets:
+  tailwindcss: https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp
+  alpinejs:
+  - intersect: https://unpkg.com/@alpinejs/intersect@3.x.x/dist/cdn.min.js
+  - persist: https://unpkg.com/@alpinejs/persist@3.x.x/dist/cdn.min.js
+  - focus: https://unpkg.com/@alpinejs/focus@3.x.x/dist/cdn.min.js
+  - collapse: https://unpkg.com/@alpinejs/collapse@3.x.x/dist/cdn.min.js
+  - morph: https://unpkg.com/@alpinejs/morph@3.x.x/dist/cdn.min.js
+  - core: https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
+
+license:
+  title_of_work: AA
+  link_to_work: https://aa.durumi.io
+  createor_of_work: Team-Durumi
+  link_to_creator_profile: https://github.com/team-durumi
+  year_of_creation: 2021
+
+footer:
+  logo: img/durumi.png
+  대표전화: 02-0000-0000
+  팩스: 02-0000-0000
+  주소: Somewhere in Seoul
+  이메일: team@durumi.io
+  url: http://github.com/team-durumi
+  caption: Github
+  github: http://github.com/team-durumi
+  fb: 
+  tw: 
+  instagram: 
+  linkedin:

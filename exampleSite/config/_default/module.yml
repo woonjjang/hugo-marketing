@@ -4,7 +4,6 @@ hugoVersion:
 
 imports:
 - path: github.com/team-durumi/hugo-theme-tw
-- path: github.com/bep/hugo-starter-tailwind-basic/v2
 - path: github.com/team-durumi/tailwind-aa-theme
 
 replacements: "github.com/team-durumi/hugo-theme-tw -> ../.."

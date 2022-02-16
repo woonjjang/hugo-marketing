@@ -5,3 +5,11 @@ main:
   - name: Browse
     url: /browse/
     weight: -100
+
+footer:
+  - name: About
+    url: /about/
+    weight: -110
+  - name: Browse
+    url: /browse/
+    weight: -100
