@@ -1,0 +1,10 @@
+title: Project
+
+languageCode: ko-kr
+defaultContentLanguage: ko
+hasCJKLanguage: true
+
+build:
+  writeStats: true
+
+googleAnalytics:

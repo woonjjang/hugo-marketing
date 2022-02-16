@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "gfonts.css";
+@import "components/all.css";
+
+html {
+  font-size: 14px;
+  font-family: "Gothic A1";
+}
+
+@screen md {
+  html {
+    font-size: 16px;
+  }
+}

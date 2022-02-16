@@ -1,0 +1,14 @@
+# themeNoPipe: true
+
+title:
+titleEn:
+description:
+images:
+
+featuredImages:
+  - image1.png
+  - image2.jpg
+
+googleFonts:
+  - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
+  - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap

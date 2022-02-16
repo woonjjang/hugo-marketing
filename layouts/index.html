@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{- `<!-- /index.html  -->` | safeHTML -}}
+<div class="container-prose">
+{{ .Content }}
+{{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+  {{ .Render "summary" }}
+{{ end }}
+</div>
+{{- `<!-- /index.html  -->` | safeHTML -}}
+{{ end }}
