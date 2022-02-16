@@ -1,3 +1,3 @@
-module github.com/team-durumi/hugo-theme-tw
+module github.com/woonjjang/hugo-markting
 
 go 1.17
