@@ -2,4 +2,4 @@ module exampleSite
 
 go 1.17
 
-require github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93 // indirect
+require github.com/woonjjang/hugo-marketing v0.0.0-20220216192111-e0ed77dc5e21 // indirect

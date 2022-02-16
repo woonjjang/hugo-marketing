@@ -2,8 +2,8 @@ main:
   - name: About
     url: /about/
     weight: -110
-  - name: Browse
-    url: /browse/
+  - name: Posts
+    url: /posts/
     weight: -100
 
 footer:
